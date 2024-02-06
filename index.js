@@ -1,1 +1,1 @@
-console.log("hello tini");
+console.log("mari pulang");
